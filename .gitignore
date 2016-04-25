@@ -1,0 +1,57 @@
+# =============== #
+# Unity generated, builds#
+# =============== #
+UnityGenerated/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+*.dotsettings
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# ============ #
+# Protected Assets #
+# ============ #
+Assets/AllSky*
+Assets/T4*
+Assets/UnityVS
+Assets/MultiPlatformToolSuite
+Assets/JMO Assets
+Assets/Audio/abaaml-*
+Assets/Audio/Circus_Clown_Halloween_Horror*
+Assets/Plugins/Cruncher*
+Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+*/App/
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.svd
+*.tmp
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
