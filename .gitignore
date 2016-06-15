@@ -1,21 +1,26 @@
-# =============== #
-# Unity generated, builds#
-# =============== #
+# ======================= #
+# Unity generated, Builds #
+# ======================= #
 UnityGenerated/
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+Assets/AssetStoreTools*
+App/
+UWP/
+project.json
+project.lock.json
 *.dotsettings
 *.pidb.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
-# ============ #
+# ================ #
 # Protected Assets #
-# ============ #
+# ================ #
 Assets/AllSky*
 Assets/T4*
 Assets/UnityVS
@@ -29,6 +34,7 @@ Assets/AssetStoreTools*
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
+.vs/
 */App/
 ExportedObj/
 *.svd
@@ -40,8 +46,17 @@ ExportedObj/
 *.user
 *.unityproj
 *.booproj
-*.svd
 *.tmp
+*.ipch
+*.opensdf
+*.sdf
+*.obj
+*.tlog
+*.log
+*.idb
+*.opendb
+WSATestCertificate.pfx
+WSATestCertificate.pfx.meta
 
 # ============ #
 # OS generated #
@@ -54,4 +69,3 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.db
-
