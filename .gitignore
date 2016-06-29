@@ -69,3 +69,8 @@ WSATestCertificate.pfx.meta
 Icon?
 ehthumbs.db
 Thumbs.db
+
+
+# Dev machine-specific files.
+hololensemulator*.bat
+
